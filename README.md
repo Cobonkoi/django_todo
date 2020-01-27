@@ -1,5 +1,8 @@
 # Code Institute
 
+Run it with
+python3 manage.py runserver $IP:8080
+
 Welcome Daniel Tierney,
 
 We have preinstalled all of the tools you need to get started.
